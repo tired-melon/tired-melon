@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Xavier.
 
-<!--
-**tired-melon/tired-melon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer transitioning from a background in music composition.
+I specialize in JavaScript and automation tools and am expanding into full-stack development.
 
-Here are some ideas to get you started:
+Tech:
+- JavaScript (Node.js)
+- Java
+- Git
+- HTML/CSS
+- SQL (learning)
+- AWS (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on:
+- Building a small full-stack web application with REST APIs and SQL integration
+- Refactoring my Twitch bot for cleaner architecture and modular design
+- Learning database design and query optimization (MySQL)
