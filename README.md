@@ -15,3 +15,4 @@ Currently working on:
 - Building a small full-stack web application with REST APIs and SQL integration
 - Refactoring my Twitch bot for cleaner architecture and modular design
 - Learning database design and query optimization (MySQL)
+- Expanding my C# backend development skills
